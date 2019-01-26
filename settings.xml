@@ -6,13 +6,13 @@
   <servers>
     <server>
 	    <id>xcard-snapshots</id>
-	    <username>xcard-user</username>
-	    <password>xcard-user</password>
+	    <username>admin</username>
+	    <password>admin123</password>
     </server>
      <server>
             <id>xcard-releases</id>
-            <username>xcard-user</username>
-            <password>xcard-user</password>
+            <username>admin</username>
+            <password>admin123</password>
     </server>
 
     </servers>
